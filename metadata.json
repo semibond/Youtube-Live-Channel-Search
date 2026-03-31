@@ -1,0 +1,5 @@
+{
+  "name": "YT Canlı Yayın Çıkarıcı",
+  "description": "Verilen metin veya kod bloklarından YouTube canlı yayın bağlantılarını bulup JSON formatında dışa aktaran araç.",
+  "requestFramePermissions": []
+}
